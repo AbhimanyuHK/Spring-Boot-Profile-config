@@ -2,7 +2,7 @@
 
 ### $ mvn clean install 
 or
-### mvn clean package
+### $ mvn clean package
 
 ### $ java -jar -Dspring.profiles.active=dev target/spring-boot-profile-config-0.0.1-SNAPSHOT.jar 
 
