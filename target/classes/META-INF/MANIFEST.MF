@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: abhimanyu
+Build-Jdk: 10.0.1
+Implementation-Title: spring-boot-profile-config
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-boot-config
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

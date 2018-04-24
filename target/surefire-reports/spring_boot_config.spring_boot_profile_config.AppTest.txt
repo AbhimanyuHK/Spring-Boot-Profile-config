@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: spring_boot_config.spring_boot_profile_config.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s - in spring_boot_config.spring_boot_profile_config.AppTest
